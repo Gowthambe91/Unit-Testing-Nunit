@@ -1,0 +1,4 @@
+H:\GITHUB\CustomerOrderSvc1\CustomerOrderSvc1\obj\Debug\CustomerOrderSvc1.csprojAssemblyReference.cache
+H:\GITHUB\CustomerOrderSvc1\CustomerOrderSvc1\obj\Debug\CustomerOrderSvc1.csproj.CoreCompileInputs.cache
+H:\GITHUB\CustomerOrderSvc1\CustomerOrderSvc1\bin\Debug\CustomerOrderSvc1.dll
+H:\GITHUB\CustomerOrderSvc1\CustomerOrderSvc1\obj\Debug\CustomerOrderSvc1.dll

@@ -1,9 +1,0 @@
-/CustomerOrderService/*.dll
-/CustomerOrderService/CustomerOrderService.Tests/bin
-/CustomerOrderService/CustomerOrderService.Tests/obj
-/CustomerOrderService/CustomerOrderService/bin
-/CustomerOrderService/CustomerOrderService/obj
-/CustomerOrderService/packages/
-/CustomerOrderService/.vs/
-/CustomerOrderService/CustomerOrderService/properties
-/CustomerOrderService/CustomerOrderService.Tests/properties
