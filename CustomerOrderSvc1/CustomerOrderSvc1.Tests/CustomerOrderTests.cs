@@ -8,7 +8,8 @@ using System.Threading.Tasks;
 namespace CustomerOrderSvc1.Tests
 {
     [TestFixture(CustomerType.Basic)]
-    [TestFixture(CustomerType.Premium, 100)]    
+    [TestFixture(CustomerType.Premium, 100)] 
+    
     class CustomerOrderServiceTests
     {
         private CustomerType customerType;
