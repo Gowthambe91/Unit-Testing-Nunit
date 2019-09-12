@@ -8,7 +8,7 @@ using NUnit.Framework;
 
 namespace CustomerOrderSvc1.Tests
 {
-    [TestFixture]
+    [TestFixture] //marks the applied class contains test methods and helps in passing parameters and generic type to the applied class!  
     [TestFixture(CustomerType.Basic,100.00, TypeArgs = new Type[] { typeof(CustomerType), typeof(double)})]
     public class EmployeeTests<T1,T2>
     {
@@ -21,7 +21,7 @@ namespace CustomerOrderSvc1.Tests
             this.doubleValue = doubleValue;
         }
 
-        [Test]
+        [TestCase] // Similar to Test Attribute - marks the method a Test method and lets Nunit test runner to discover this test method and execute it later.
         public void When_ContainsIllegalChar_Expected_True() {
 
             //Arrange

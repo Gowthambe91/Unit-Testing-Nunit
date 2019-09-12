@@ -49,8 +49,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
-    <Compile Include="CustomerOrderTests.cs" />
-    <Compile Include="EmployeeTests.cs" />
+    <Compile Include="TestCaseArguments.cs" />
+    <Compile Include="TestFixtureParameter.cs" />
+    <Compile Include="TestFixtureInheritanceGeneric.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
